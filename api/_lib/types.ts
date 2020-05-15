@@ -10,5 +10,4 @@ export interface ParsedRequest {
     images: string[];
     widths: string[];
     heights: string[];
-    backgroundimg: string[];
 }
