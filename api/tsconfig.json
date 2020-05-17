@@ -15,7 +15,6 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "esModuleInterop": true,
-        "OG_HTML_DEBUG": true
     },
     "include": [
         "./"
